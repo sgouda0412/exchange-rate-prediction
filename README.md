@@ -2,11 +2,7 @@
 
 Exchange Rate is one of the daily topics that captures everyone’s attention, especially in the current Covid-19 situation where the global economy is severely affected. Therefore, I’m highly interested in analyzing the exchange rate pattern in the past so as to be able to forecast the value in the future. 
 
-As part of this project, 3 accompanied blog posts on Medium can be found at the following links for your reference:
 
-* [Exchange Rate Prediction: EDA & Data Visualisation](https://medium.com/analytics-vidhya/exchange-rate-prediction-part-1-276b6cd5338)
-* [Exchange Rate Prediction: Machine Learning with 5 Regression Models](https://towardsdatascience.com/exchange-rate-prediction-machine-learning-with-5-regression-models-d7a3192531d)
-* [Exchange Rate Prediction: Time Series Forecasting with ARIMA](https://towardsdatascience.com/exchange-rate-prediction-time-series-forecasting-with-arima-27260faafcdc)
 
 ## Dataset
 
